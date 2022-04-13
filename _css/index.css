@@ -1,0 +1,18 @@
+body {
+    background-color: #FFCC66;
+    }
+    h1 {
+    color: #990000;
+    background-color: #FC9804;
+    }
+
+    table#alter tr td { 
+        background: rgb(35, 255, 28);
+        } 
+    table#alter tr.dif td {
+        background: rgb(47, 255, 238);
+        }
+    textarea{
+        background: #FC9804;
+        ;
+    }
